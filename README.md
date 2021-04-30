@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <a href="https://laravel.com" target="_blank">
+    <a href="https://fakerphp.github.io/" target="_blank">
         <img src="https://fakerphp.github.io/images/logo.svg" width="200">
     </a>
 </div>
